@@ -37,12 +37,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=derrickLouis&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="DJ's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrickLouis&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended-tan-one.vercel.app/api?username=derrickLouis&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="DJ's GitHub stats" />
+  <img height="165" src="https://github-stats-extended-tan-one.vercel.app/api/top-langs/?username=derrickLouis&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derrickLouis&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=derrickLouis&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br />
